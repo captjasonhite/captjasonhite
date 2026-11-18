@@ -6,7 +6,7 @@ Sailor, diver and author, with 40 years of hands-on computer experience. I build
 
 ## 🚀 Live Applications & Tools
 
-* **[AI Passage Plan](https://www.aipassageplan.com)**
+* **[Coastwise Weather](https://www.coastwiseweather.com)**
   *Local weather knowledge for cruisers in Mexico and beyond: passage weather and decision support for Pacific Mexico and the Sea of Cortez.*
   `Python` • `Flask` • `Supabase` • `Stripe`
 
